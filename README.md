@@ -11,7 +11,7 @@ This repository demonstrates a mock implementation of the NIST Risk Management F
 - Excel & Markdown Documentation
 
 ## 📊 Purpose
-Designed to showcase my understanding of RMF implementation and cybersecurity compliance in a DoD environment, this project is part of my portfolio to demonstrate eligibility for federal ISSO/ISSM roles.
+This mock project showcases my understanding of RMF implementation and cybersecurity compliance in a DoD environment
 
 ---
 # 🛡️ Mock RMF Implementation for a DoD Web Application
@@ -35,7 +35,7 @@ This repository contains a mock Risk Management Framework (RMF) implementation f
 
 ## 🧠 Objective
 
-To showcase understanding of RMF lifecycle processes, FISMA/NIST compliance, STIGs, and control implementation in support of DoD ATO efforts. Suitable for roles in ISSO, ISSM, or Cybersecurity Analyst supporting RMF and DIACAP transitions.
+To showcase understanding of RMF lifecycle processes, FISMA/NIST compliance, STIGs, and control implementation in support of DoD ATO efforts.
 
 ---
 
